@@ -12,3 +12,9 @@ From each one, 500 features were extracted using *TfidfVectorizer* function from
 Splitting the features data into train (70%) and test (30%) <br>
 Fitting three models: Logistic Regression, Multilayer Perceptron and Naive Bayes <br>
 Presenting and discussing the results.
+
+### How we ran this code:
+We downloaded the 2003 file from the cluster onto our own laptop computer.
+Everything was done locally on our own computer. Results can be reproduced by having the 2003 folder locally and then changing the directory accordingly.
+
+
